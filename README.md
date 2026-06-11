@@ -8,3 +8,5 @@ Treino de Tríceps - Cirulli
 2. Tríceps Francês unilateral
 3. Tríceps Testa
 4. Elevação Lateral
+
+treino fingalizado
