@@ -4,11 +4,10 @@ Treino de Peito e Tríceps dos CC (Caio e Cirulli) 🥶🥶🥶
 Dia de treino com Brunão e Gersão 😎
 
 Treino de Peito - Caio da Bola
-
-Supino Articulo
-Supino Inclinado com Halteres
-Crucifixo Máquina
-Crucifixo na Polia Alta
+1. Supino Articulo
+2. Supino Inclinado com Halteres
+3. Crucifixo Máquina
+4. Crucifixo na Polia Alta
 
 Treino de Tríceps - Cirulli
 1. Tríceps Polia
